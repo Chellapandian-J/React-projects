@@ -1,21 +1,10 @@
-React Projects
-
+React Projects:
 A collection of React projects created while learning React — progressing from basic concepts to more advanced applications.
 
-Project Structure
-React-projects/
-│
-├── static-page/        # A simple static React page built with Vite
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   ├── README.md
-│   └── LICENSE
-│
-└── More projects coming soon...
+Project Structure:
+React-projects/static-page/src/public/package.json,README.md,LICENSE.....(More projects coming soon)...
 
-How to Run a Project
-
+How to Run a Project:
 1.Open the project folder:
 cd static-page
 
