@@ -5,6 +5,7 @@ Project Structure:
 React-projects/static-page/src/public/package.json,README.md,LICENSE.....(More projects coming soon)...
 
 How to Run a Project:
+
 1.Open the project folder:
 cd static-page
 
